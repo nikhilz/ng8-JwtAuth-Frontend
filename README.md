@@ -40,3 +40,5 @@ For JWT Authentication, we’re gonna call 2 endpoints:
 – Profile component get user data from Session Storage.
 
 – BoardUser, BoardModerator, BoardAdmin components will be displayed depending on roles from Session Storage. In these components, we use user.service to get protected resources from API.
+
+[ref](https://bezkoder.com/angular-jwt-authentication/)
